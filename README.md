@@ -130,4 +130,4 @@ In TypeScript, an **interface** is a way to define the **shape of an object**. I
 
 In React and Next.js, a **component** is a reusable, self-contained piece of UI. Components are the building blocks of a web application.
 
-* **Why we use it:** Breaking the UI into components allows for a modular and organized structure. We can create a `Button` component, a `Card` component, or a `Header` component and reuse them throughout the application. This makes the code easier to manage, debug, and scale. Components also manage their own state and can be composed together to build complex interfaces.
+* **Why we use it:** Breaking the UI into components allows for a modular and organized structure. We can create a `Button` component, a `Card` component, or a `Header` component and reuse them throughout the application. This makes the code easier to manage, debug, and scale. Components also manage their own state and can be composed together to build complex interfaces.# alx-listing-app-00
